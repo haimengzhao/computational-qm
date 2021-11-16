@@ -9,3 +9,4 @@ Code list:
 3. `/task3`: Traditional Finite Size DMRG for Transvers-field Ising Model
 4. `/task4`: Matrix Product Operator of Square Lattice Compass Model
 5. `/task5`: Variational MPS and iTEBD for Three-body Spin Model
+6. `/task6`: Markov Chain Monte Carlo for Classical Ising Model
